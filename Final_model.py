@@ -1,4 +1,4 @@
-#%% Complete model version 3 - 22/04/2024
+#%% Complete model - 10/06/2024
 
 import pyomo.environ as pyo 
 import numpy as np
